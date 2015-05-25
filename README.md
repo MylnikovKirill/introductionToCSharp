@@ -1,4 +1,4 @@
 # introductionToCSharp
 just example
 
-##trying github with vs
+##trying github as vcs with VisualStudio
